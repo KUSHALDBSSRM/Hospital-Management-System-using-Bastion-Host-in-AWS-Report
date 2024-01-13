@@ -14,8 +14,8 @@ Technologies Used : Nodejs, HTML, CSS, JavaScript, MySQL, AWS infrastructures li
 
 <h2> Folder Structure </h2>
 <ol>
-  <li><b>ProjectImplementationVideos</b> This folder contains the detailed recordings of the project implementation</li>
-  <li><b>ProjectReport</b> This folder contains the detailed report of the implemented project in pdf file</li>
+  <li><b>ProjectImplementationVideos : </b> This folder contains the detailed recordings of the project implementation</li>
+  <li><b>ProjectReport : </b> This folder contains the detailed report of the implemented project in pdf file</li>
 </ol>
 
 
